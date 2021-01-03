@@ -1,0 +1,36 @@
+{
+    "name": {
+      "CN": {
+        "title": "环按钮",
+        "memes": "环宝表情",
+        "fullName": "Nokooooo_"
+      }
+    },
+    "header": {
+      "icon": "🌶️",
+      "bilibili": "https://space.bilibili.com/1599316734",
+      "streaming": "https://live.bilibili.com/22667136"
+        },
+    "footer": {
+      "author": [
+        {
+          "name": "Gnoseil",
+          "url": "https://github.com/Gnoseil"
+        },
+        {
+          "name": "叫我去炼丹"
+        }
+      ],
+      "githubUrl": "https://github.com/Gnoseil/Nokooooo-button"
+    },
+    "console": {
+      "text": "❤环宝❤",
+      "size": "20px",
+      "color": "pink",
+      "img": "huan.png",
+      "imgWidth": "100%",
+      "imgHeight": "84%"
+    },
+    "mediaSession": "huan.png",
+    "GA_ID": "UA-176441751-1"
+  }
